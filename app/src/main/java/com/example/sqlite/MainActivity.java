@@ -15,6 +15,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    //xdloltilininsano
     EditText ID, Usuario, AreaUsuario;
     ListView Lista;
 
